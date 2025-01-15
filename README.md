@@ -1,2 +1,2 @@
 # ds2002-whp3ar
-My repos for DS2002 - Spring 2025
+My repo for DS2002 - Spring 2025
